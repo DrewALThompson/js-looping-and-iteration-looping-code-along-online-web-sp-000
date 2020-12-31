@@ -7,4 +7,9 @@ function writeCards(array, event){
   return arr
 };
 
-function countDown()
+function countDown(number){
+ while(number > 0){
+   console.log(number)
+   number--
+ } ; 
+}
