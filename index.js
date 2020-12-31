@@ -6,3 +6,5 @@ function writeCards(array, event){
   };
   return arr
 };
+
+function countDown()
